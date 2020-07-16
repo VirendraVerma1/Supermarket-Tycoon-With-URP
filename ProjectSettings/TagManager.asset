@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FinalFixedPoint
+  - ParkingPoints
+  - ParkingLot
+  - EntrancePoint
+  - StartQueue
+  - ShopSpawnPoint
+  - GameManager
+  - TravellingPoint
+  - Port
+  - FinalTurnPointsCar
+  - PortOffice
+  - LastQueue
+  - TurningPoinsCar
+  - StorageArea
+  - FinalEndPoint
+  - ShopPoint
+  - ShipTurnPoint
+  - PeopleOutOfParkingPoint
+  - MainExitPoint
+  - Parking
+  - LastShipExit
+  - StartingFixedPoint
+  - Office
+  - Shop
+  - TradeBox
+  - Container
+  - Van
+  - Storage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Nav
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
